@@ -1,0 +1,36 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "daveb1977@hotmail.com",
+    "longName": "P1",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
+                "type": "png"
+            },
+            {
+                "file": "fonts/digital-7__mono_.ttf",
+                "name": "FONT_DIGITAL_30",
+                "type": "font"
+            },
+            {
+                "file": "fonts/digital-7__mono_ (1).ttf",
+                "name": "FONT_DIGITAL_38",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "P1",
+    "uuid": "74456f8f-0d21-4388-a67e-8b5d8a95b062",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
